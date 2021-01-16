@@ -1,7 +1,11 @@
 # main links
 main:
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Blog Posts"
+    url: /year-archive/    
+#  - title: "Talks"
+#    url: /talks/
+  - title: "Resume"
+    url: "https://bit.ly/resume_okky"
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
@@ -10,9 +14,4 @@ main:
   #   url: /publications/    
   # - title: "Portfolio"
   #   url: /portfolio/      
-  - title: "Blog Posts"
-    url: /year-archive/    
-#  - title: "Talks"
-#    url: /talks/
-  - title: "Resume"
-    url: "https://bit.ly/resume_okky"
+
