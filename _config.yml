@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Okky Mabruri"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Okky Mabruri"
+description              : "Mabruri's Site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "okkymabrur"
 facebook:
   username               :
   app_id                 :
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Okky Mabruri"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/photo_okky.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Engineering physics graduate enthusiastic about data science."
   location         : "Indonesia"
   email            : 
