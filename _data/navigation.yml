@@ -1,7 +1,9 @@
 # main links
 main:
+  - title: "Portfolio/Publications"
+    url: /portfolio/
   - title: "Blog Posts"
-    url: /blog/    
+    url: /blog/
 #  - title: "Talks"
 #    url: /talks/
   - title: "Resume"
@@ -11,7 +13,4 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   # - title: "Publications"
-  #   url: /publications/    
-  # - title: "Portfolio"
-  #   url: /portfolio/      
-
+  #   url: /publications/
