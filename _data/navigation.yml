@@ -4,8 +4,8 @@ main:
     url: /portfolio/
   - title: "Blog Posts"
     url: /blog/
-#  - title: "Talks"
-#    url: /talks/
+  - title: "Talks"
+    url: /talks/
   - title: "Resume"
     url: "https://bit.ly/resume_okky"
   # - title: "Sample Collections"

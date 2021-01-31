@@ -63,7 +63,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : RzmKu9SleMD8YatDqDKGedGME05Ho1F9Z4rH4OmFlq8
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -117,6 +117,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "linkedin.com/in/okkymabruri/"
 
 # Site Footer
 footer:
