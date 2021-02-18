@@ -15,6 +15,7 @@ toc: true
 - [Simple Scraping Wikipedia](https://github.com/okkymabruri/scraping-wikipedia)
 
 #### *Data Analysis*
+- [Iowa Liquor Sales](https://www.kaggle.com/okkymabruri/iowa-liquor-sales)
 
 ## My Project
 - [Strategic-19](https://github.com/NUJerman/NUJ-Internship-2020-Blue)
