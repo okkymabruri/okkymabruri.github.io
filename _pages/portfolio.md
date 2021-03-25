@@ -10,12 +10,16 @@ toc: true
 ## My Work
 
 #### *Data Scraping*
-- [Scraping Putusan Pilkada](https://github.com/okkymabruri/scraping-putusan-pilkada)
+- [Scraping Putusan Mahkamah Agung](https://github.com/okkymabruri/putusan-mahkamahagung)
 - [Simple Scraping Covid Indonesia](https://github.com/okkymabruri/scraping-covid19)
 - [Simple Scraping Wikipedia](https://github.com/okkymabruri/scraping-wikipedia)
 
 #### *Data Analysis*
 - [Iowa Liquor Sales](https://www.kaggle.com/okkymabruri/iowa-liquor-sales)
+
+#### *Data Visualization*
+- [Putusan UU ITE](https://public.tableau.com/profile/okky.mabruri#!/vizhome/PutusanUUITE/putusanUUITE)
+- [Data Pegadaian](https://public.tableau.com/profile/okky.mabruri#!/vizhome/Gadai/DashboardNasabahAdminTaksiranPembiayaan)
 
 ## My Project
 - [Strategic-19](https://github.com/NUJerman/NUJ-Internship-2020-Blue)
