@@ -17,9 +17,10 @@ toc: true
 #### *Data Analysis*
 - [Iowa Liquor Sales](https://www.kaggle.com/okkymabruri/iowa-liquor-sales)
 
-#### *Data Visualization*
-- [Putusan UU ITE](https://public.tableau.com/profile/okky.mabruri#!/vizhome/PutusanUUITE/putusanUUITE)
-- [Data Pegadaian](https://public.tableau.com/profile/okky.mabruri#!/vizhome/Gadai/DashboardNasabahAdminTaksiranPembiayaan)
+#### *Data Visualization/Dashboard*
+- [Dashboard COVID-19 | Google Data Studio](https://datastudio.google.com/reporting/14b95d60-2d4a-4f20-90a7-55ea53b989bb/page/6teCC)
+- [Putusan UU ITE | Tableau](https://public.tableau.com/profile/okky.mabruri#!/vizhome/PutusanUUITE/putusanUUITE)
+- [Simple Pegadaian Data Viz | | Tableau](https://public.tableau.com/profile/okky.mabruri#!/vizhome/Gadai/DashboardNasabahAdminTaksiranPembiayaan)
 
 ## My Project
 - [Strategic-19](https://github.com/NUJerman/NUJ-Internship-2020-Blue)
