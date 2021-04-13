@@ -6,6 +6,10 @@ author_profile: true
 toc: true
 ---
 
+## Writing Result and Discussion of Scientific Paper
+### Scientistics, Diploma of Business Statistics Student Association HIMADATA-ITS, 03 Apr 2021
+[Documentation](/images/talks20210403.jpg) | [Slides](https://drive.google.com/file/d/105ejxk5xE8NUt0uFFcX9sT30uXwBw4d6/view?usp=sharing)
+
 ## Introduction to Data Science
 ### Sekolah Data Science, iData1011, 06 Mar 2021
 [Flyer/Poster](https://www.instagram.com/p/CLn8jbvFOvL/) | [Documentation](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODkwODUyMjEzOTc2NDAx?igshid=n8wtvyglix2p&story_media_id=2523186323109275040_5623044164) | [Slides](https://drive.google.com/file/d/13BFQB1QNo7VoZbv92WTFQanRN2YP4Yk5/view?usp=sharing)
