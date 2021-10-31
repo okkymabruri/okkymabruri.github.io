@@ -11,16 +11,16 @@ toc: true
 
 #### *Data Scraping*
 - [Scraping Putusan Mahkamah Agung](https://github.com/okkymabruri/putusan-mahkamahagung)
-- [Simple Scraping Covid Indonesia](https://github.com/okkymabruri/scraping-covid19)
-- [Simple Scraping Wikipedia](https://github.com/okkymabruri/scraping-wikipedia)
+<!-- - [Simple Scraping Covid Indonesia](https://github.com/okkymabruri/scraping-covid19)
+- [Simple Scraping Wikipedia](https://github.com/okkymabruri/scraping-wikipedia) -->
 
 #### *Data Analysis*
 - [Iowa Liquor Sales](https://www.kaggle.com/okkymabruri/iowa-liquor-sales)
 
-#### *Data Visualization/Dashboard*
+<!-- #### *Data Visualization/Dashboard*
 - [Google Data Studio - Dashboard COVID-19](https://datastudio.google.com/reporting/14b95d60-2d4a-4f20-90a7-55ea53b989bb/page/6teCC)
 - [Tableau - Putusan UU ITE](https://public.tableau.com/profile/okky.mabruri#!/vizhome/PutusanUUITE/putusanUUITE)
-- [Tableau - Simple Pegadaian Data Viz](https://public.tableau.com/profile/okky.mabruri#!/vizhome/Gadai/DashboardNasabahAdminTaksiranPembiayaan)
+- [Tableau - Simple Pegadaian Data Viz](https://public.tableau.com/profile/okky.mabruri#!/vizhome/Gadai/DashboardNasabahAdminTaksiranPembiayaan) -->
 
 ## My Project
 - [Strategic-19](https://github.com/NUJerman/NUJ-Internship-2020-Blue)
