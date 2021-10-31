@@ -11,6 +11,7 @@ toc: true
 
 #### *Data Scraping*
 - [Scraping Putusan Mahkamah Agung](https://github.com/okkymabruri/putusan-mahkamahagung)
+
 <!-- - [Simple Scraping Covid Indonesia](https://github.com/okkymabruri/scraping-covid19)
 - [Simple Scraping Wikipedia](https://github.com/okkymabruri/scraping-wikipedia) -->
 
