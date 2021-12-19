@@ -55,7 +55,7 @@ See more : [**Okky Mabruri GitHub**](https://github.com/okkymabruri) <span class
 - ["MANASUKA" Masyarakat Nampu Manfaatkan Sumur Kapur sebagai Edukasi Peduli Kelayakan Air Minum dengan Alat Filtrasi untuk Hidup Sehat melalui Pemberdayaan Potensi Desa Terisolir. (2018). Jurnal Ilmiah Penalaran dan Penelitian Mahasiswa 2 (2), 47-57](http://www.jurnal.ukmpenelitianuny.org/index.php/jippm/article/view/122/34)
 {: style="text-align: justify"}
 
-See more : [**Google Scholar**](https://github.com/okkymabruri) <span class="iconify" data-icon="simple-icons:googlescholar" data-inline="false"></span>
+See more : [**Google Scholar**](https://scholar.google.com/citations?user=pvMgT-IAAAAJ&hl=en) <span class="iconify" data-icon="simple-icons:googlescholar" data-inline="false"></span>
 
 
 <!--

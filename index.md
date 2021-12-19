@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my page!"
+title: "Welcome!"
 layout: home
 author_profile: true
 toc: true
