@@ -1,0 +1,51 @@
+site_name: Okky Mabruri
+site_url: https://okky.dev/
+
+theme:
+  name: material
+  language: en
+  logo: images/logo.svg
+  favicon: images/favicon.svg
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.top
+    - search.suggest
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.superfences
+  - toc:
+      toc_depth: 0
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - index.md
+  - Projects: projects.md
+  - Blog: writing.md
+  - Contact: contact.md
+
+not_in_nav: |
+  404.md
+
+copyright: "&copy; Okky Mabruri"
