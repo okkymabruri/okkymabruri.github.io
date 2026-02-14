@@ -49,3 +49,15 @@
 .md-tabs__link[href="."] {
   display: none;
 }
+
+/* Ensure hamburger is tappable on mobile */
+.md-header__inner {
+  position: relative;
+  z-index: 10;
+}
+
+label.md-header__button.md-icon[for="__drawer"] {
+  position: relative;
+  z-index: 20;
+  pointer-events: auto;
+}
