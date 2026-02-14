@@ -1,0 +1,45 @@
+/* Sky blue primary */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #0ea5e9;
+  --md-primary-fg-color--light: #38bdf8;
+  --md-primary-fg-color--dark: #0284c7;
+  --md-accent-fg-color: #38bdf8;
+}
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #0284c7;
+  --md-primary-fg-color--light: #0ea5e9;
+  --md-primary-fg-color--dark: #0369a1;
+  --md-accent-fg-color: #0ea5e9;
+}
+
+/* Hide both sidebars */
+.md-sidebar--secondary,
+.md-sidebar--primary {
+  display: none;
+}
+
+/* Center content */
+.md-content {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+/* OM logo as text */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  display: none;
+}
+
+.md-header__button.md-logo::after {
+  content: "OM";
+  font-weight: 800;
+  font-size: 1.4rem;
+  letter-spacing: 0.05em;
+  color: white;
+}
+
+/* Hide the homepage tab */
+.md-tabs__link[href="."] {
+  display: none;
+}
