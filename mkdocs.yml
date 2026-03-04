@@ -42,7 +42,7 @@ extra_css:
 nav:
   - index.md
   - Projects: projects.md
-  - Blog: writing.md
+  - Writing: writing.md
   - Contact: contact.md
 
 not_in_nav: |
